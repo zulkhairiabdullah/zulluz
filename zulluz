@@ -841,12 +841,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
-#EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Eurosport HD
+#EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://raw.githubusercontent.com/hpmurah2SPORTSu/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Eurosport HD
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png" group-title="SPORTS",FIGHT SPORTS
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1154,7 +1154,7 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #EXTINF:-1 tvg-id="121" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/unifi%20tv%20logo%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",SIAR
-#EXTINF:-1 group-title="UNIFI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", Siar
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", Siar
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
